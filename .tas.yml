@@ -1,5 +1,3 @@
-
-
 framework: golang
 version: 1.0.0
 preRun:
@@ -9,4 +7,3 @@ preRun:
 postMerge:
   pattern:
     - "./**/*_test.go"
- #test1   
