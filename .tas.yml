@@ -7,3 +7,4 @@ preRun:
 postMerge:
   pattern:
     - "./**/*_test.go"
+tier: large
