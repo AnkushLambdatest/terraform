@@ -6,5 +6,5 @@ preRun:
     - "go mod vendor"
 postMerge:
   pattern:
-    - "./**/*_test.go"
-tier: large
+#     - "./**/*_test.go"
+    - ""
